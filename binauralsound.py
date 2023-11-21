@@ -1,4 +1,6 @@
 
+#https://www.youtube.com/watch?v=a4mpK_2koR4
+
 import numpy as np
 import matplotlib.pyplot as plt
 import sys, glob
